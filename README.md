@@ -11,5 +11,5 @@
 </div>
 
 ## 📢 Updates
-- **[2026/10]** Expand-and-Prune has been accepted to **WACV 2027**! The code will be released by the end of October 2026.
+- **[2026/10]** _Expand-and-Prune_ has been accepted to **WACV 2027**! The code will be released by the end of October 2026.
 - **[2026/10]** Paper released on arXiv!
